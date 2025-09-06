@@ -1,4 +1,4 @@
-**🎵 SQL Music Database Project**
+#🎵 SQL Music Database Project
 
 **📌 Overview:-**
 
@@ -54,5 +54,12 @@ Gain experience with MS SQL Server and T-SQL
 Practice joins, CTEs, and window functions
 
 Build queries for real-world business scenarios
+
+
+**📊 Schema Diagram**
+
+Here’s the ER diagram for the database:
+
+(Make sure to put your image inside an assets/ folder in the repo, or update the path if stored elsewhere.)
 
 
