@@ -1,5 +1,7 @@
 **🎵 SQL Music Database Project**
+
 **📌 Overview:-**
+
 This project is a relational music database designed to manage data for a digital music store.
 It contains information about customers, employees, invoices, tracks, albums, artists, genres, playlists, and media types.
 
